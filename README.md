@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Welcome to EdRiot Labs
 
-<!--
-**EdRiotLabs/EdRiotLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dev-ing tools to help kids learn faster & better.**
 
-Here are some ideas to get you started:
+At **EdRiot Labs**, we build fun, interactive, and accessible web tools designed to make early language learning engaging for children.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Our Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Urdu Writing](https://github.com)** | Interactive tool to help kids practice and master Urdu writing. | `HTML` |
+| **[Arabic Reading](https://github.com)** | Guided learning app designed to help children learn to read Arabic. | `JavaScript` |
+
+---
+
+### 🎯 What We Focus On
+* **Kid-Friendly Design:** Simple interfaces built for young learners.
+* **Interactive Practice:** Hands-on reading and writing exercises instead of passive lessons.
+* **Open Learning:** Free, browser-based educational tools accessible anywhere.
+
+---
+
+### 📫 Get Involved
+Have ideas for new learning tools or want to contribute? Feel free to open an issue or submit a pull request in any of our repositories!
