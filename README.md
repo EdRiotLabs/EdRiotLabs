@@ -22,7 +22,7 @@ At **EdRiot Labs**, we build fun, interactive, and accessible web tools designed
 
 ---
 
-### 📫 Get Involved
-Have ideas for new learning tools or want to contribute? Feel free to open an issue or submit a pull request in any of our repositories!
 
-### 
+### 📫 Get in Touch & Contribute
+* **Feedback & Inquiries:** Have ideas for new learning tools, or want to share feedback as a parent or educator? Reach us at **edriotlabs [at] gmail.com**.
+* **Code & Bug Reports:** Developers are welcome to open an issue or submit a pull request in any of our repositories!
